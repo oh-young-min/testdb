@@ -23,9 +23,9 @@
     { "hakbun": 20250005, "irum":"이길동", "kor":100, "eng":90, "mat":80 }    
   ],
   "test": [
-    {"userId":1001, "orderId":"#20240521-001", "name":"홍길동", "orderDate":"2024-05-21", "status":"배송완료", "price": 55000},
-    {"userId":1002, "orderId":"#20240520-003", "name":"이순신", "orderDate":"2024-05-20", "status":"배송중", "price": 120000},
-    {"userId":1003, "orderId":"#20240520-001", "name":"유관순", "orderDate":"2024-05-20", "status":"주문취소", "price": 55000}
+    {"userId":1001, "orderId":"#20240521-001", "orderDate":"2024-05-21", "status":"배송완료", "price": 55000},
+    {"userId":1002, "orderId":"#20240520-003", "orderDate":"2024-05-20", "status":"배송중", "price": 120000},
+    {"userId":1003, "orderId":"#20240520-001", "orderDate":"2024-05-20", "status":"주문취소", "price": 55000}
   ],
   "user": [
     {"id":1001, "name":"홍길동", "email":"gildong@example.com", "sdate":"2023-01-15"},
